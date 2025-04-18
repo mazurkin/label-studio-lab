@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "basic-pitch-lab"
+version = "0.1.0"
+description = "basic-pitch lab"
+authors = ["Nick Mazurkin <mazurkin@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.16"
+
+[tool.poetry.group.basic-pitch.dependencies]
+label-studio = "1.17.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
