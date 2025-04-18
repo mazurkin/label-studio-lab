@@ -2,6 +2,8 @@
 
 bootstrap for https://labelstud.io/
 
+https://pypi.org/project/label-studio/
+
 ## installation
 
 ```shell
