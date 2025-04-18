@@ -14,6 +14,6 @@ make env-create
 ## run
 
 ```shell
-# convert
+# run the server
 $ bin/label-studio
 ```
